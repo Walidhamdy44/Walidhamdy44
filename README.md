@@ -1,10 +1,8 @@
 <h1 align="center">Hi there👋,</h1>
-<h1 align="center">I'm Walid Hamdy</h1>
-<h3 align="center">frontend React js || React Native developer</h3>
+<h1 align="center">I'm WALID HAMDY</h1>
+<h3 align="center">Frontend React js || React Native Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=walidhamdy44&label=Profile%20views&color=0e75b6&style=flat" alt="walidhamdy44" /> </p>
 
 - 🔭 I’m currently working on [Skyloov Property Portal](https://www.skyloov.com)
 
@@ -24,5 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walidhamdy44&show_icons=true&locale=en&layout=compact" alt="walidhamdy44" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walidhamdy44&show_icons=true&locale=en" alt="walidhamdy44" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=walidhamdy44&label=Profile%20views&color=0e75b6&style=flat" alt="walidhamdy44" /> </p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walidhamdy44&" alt="walidhamdy44" /></p>
