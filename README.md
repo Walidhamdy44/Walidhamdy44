@@ -1,20 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h1 align="center">I'm <span style="color:#4caf50;">WALID HAMDY</span></h1>
 <h3 align="center">A Passionate Frontend Developer | React.js & React Native Specialist</h3>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
 <p align="center">
   <a href="https://walidhamdy.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge" alt="Portfolio Badge"/></a>
   <a href="https://www.linkedin.com/in/walid-hamdy44" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" /></a>
